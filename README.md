@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="left" height="150" src="https://media.giphy.com/media/mmgxbjsgIyl3wi1VxK/giphy.gif"  />
+<img align="left" height="150" width="150" src="https://media.giphy.com/media/mmgxbjsgIyl3wi1VxK/giphy.gif"  />
 
 ###
 
